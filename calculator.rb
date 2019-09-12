@@ -1,1 +1,1 @@
-first_number = "Hello world!"
+"Hello world!"
